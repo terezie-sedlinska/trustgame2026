@@ -2,7 +2,7 @@
 
 This repository contains computational modeling and analysis code related to the preprint:
 
-> Sedlinska, T. L. et al.  
+> Sedlinska, T. et al.  
 > *Computational Markers of Altered Social Interaction and Cognition in Methamphetamine Use Disorder*  
 > https://doi.org/10.31234/osf.io/9hyav_v1
 
@@ -18,5 +18,5 @@ The repository combines:
 
 ## Repository structure
 
-model/           # original model and task implementation
-analysis/        # new analysis scripts
+- model/           # original model and task implementation
+- analysis/        # new analysis scripts
