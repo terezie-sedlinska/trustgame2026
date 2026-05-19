@@ -18,5 +18,5 @@ The repository combines:
 
 ## Repository structure
 
-- model/           # original model and task implementation
-- analysis/        # new analysis scripts
+- model/           original model and task implementation
+- analysis/        new analysis scripts
